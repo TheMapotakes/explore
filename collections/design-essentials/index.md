@@ -21,7 +21,7 @@ items:
  - tabler/tabler-icons
  - saadeghi/daisyui
  - responsively-org/responsively-app
-display_name: Design essentials
+display_name: Design essential
 created_by: jonrohan
 ---
 This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products.
